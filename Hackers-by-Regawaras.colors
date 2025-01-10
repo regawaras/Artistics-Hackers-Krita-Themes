@@ -1,0 +1,22 @@
+[Colors:Button]
+BackgroundAlternate  = #11FF11
+BackgroundNormal     = #00000
+ForegroundNormal     = #11FF11
+
+[Colors:Selection]
+BackgroundNormal     = #005500
+ForegroundNormal     = #11FF11
+
+[Colors:View]
+BackgroundAlternate  = #000000
+BackgroundNormal     = #000000
+ForegroundNormal     = #11FF11
+
+[Colors:Window]
+BackgroundNormal     = #000000
+ForegroundNormal     = #11FF11
+
+IconColor            = #00FF00
+
+[General]
+Name                 = Custom Color
